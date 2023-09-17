@@ -7,8 +7,6 @@
 
 In this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-<br>
-
 ## Machine Learning DevOps Engineer - Nanodegree
 [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 
@@ -29,8 +27,6 @@ After completion, the student will have a working API that is live in production
 ### [🔗 A Dynamic Risk Assessment System](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree/tree/main/Dynamic%20risk%20assessment%20system)
 
 In this project, students will make predictions about attrition risk in a fabricated dataset. They’ll set up automated processes to ingest data and score, re-train, and re-deploy ML models that predict attrition risk. They’ll write scripts to automatically check for new data and check for model drift. They’ll also set up API’s that allow users to access model results, metrics, and diagnostics. After completing this project, students will have a full end-to-end, automated ML project that performs risk assessments. This project can be a useful addition to students’ portfolios, and the concepts they apply in the project can be applied to business problems across a variety of industries.
-
-<br>
 
 ## Machine Learning Engineer - Nanodegree
 
@@ -56,8 +52,6 @@ The design of a real time smart embedded monitoring system is, given the limit t
 
 The dataset used in this project is the Urbansound8k dataset.
 
-<br>
-
 ## AI Programming with Python - Nanodegree
 
 [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
@@ -65,8 +59,6 @@ The dataset used in this project is the Urbansound8k dataset.
 ### [🔗 Create an Image Classifier](https://github.com/JrVerbiest/Udacity_AI_Programming_with_Python_Nanodegree)
 
 In this project, an image classification application is implemented using a deep learning model on a dataset of images, and the trained model is used to classify new images. First, develop code in a Jupyter notebook using PyTorch. Second convert it into a Python application that you will run from the command line of your system.
-
-<br>
 
 ## Projects
 
