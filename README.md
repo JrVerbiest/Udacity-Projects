@@ -1,24 +1,44 @@
-# Udacity
+## 🎓 Udacity
 
-## Practical Statistics - Course
+## Overview
+
+- **Data Architecture Foundations Course** - Ongoing
+- **Big Data Systems Course** - Ongoing
+
+- **Practical Statistics Course** - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
+- **Machine Learning DevOps Engineer Nanodegree** - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
+- **Machine Learning Engineer Nanodegree** - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
+- **AI Programming with Python Nanodegree** - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
+
+<br>
+
+## Practical Statistics Course
 [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 
 ### [🔗 Analyze A/B Test Results](https://github.com/JrVerbiest/Udacity-Practical-Statistics-for-Data-Science)
 
+🔨 **Skills:** Outlier analysis • Statistical sampling • Basic probability • Probability distribution • Basic descriptive statistics
+
 In this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-## Machine Learning DevOps Engineer - Nanodegree
+## Machine Learning DevOps Engineer Nanodegree
 [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 
 ### [🔗 Predict Customer Churn with Clean Code](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree/tree/main/Predict%20Customer%20Churn%20with%20Clean%20Code)
+
+🔨 **Skills:** Git • Python testing • Model drift • Github collaboration • Clean code • Python documentation • Pep8 • Linting • Code refactoring • Test automation • Python exception handling • Logging • Github branches • Code reviews • Unit testing
 
 In this project, you will implement your learnings to identify credit card customers that are most likely to churn. The completed project will include a Python package for a machine learning project that follows coding (PEP8) and engineering best practices for implementing software (modular, documented, and tested). The package will also have the flexibility of being run interactively or from the command-line interface (CLI). This project will give you practice using your skills for testing, logging, and coding best practices from the lessons. It will also introduce you to a problem data scientists across companies face all the time: How do we identify (and later intervene with) customers who are likely to churn?
 
 ### [🔗 ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/JrVerbiest/Udacity_ML_Pipeline_Short_term_Rental_Prices_NYC)
 
+🔨 **Skills:** Machine learning configuration management • Exploratory data analysis • Weights & biases • Data cleaning • Model deployment • Hydra • Data versioning • Non-deterministic data testing • Machine learning pipeline creation • Deterministic data testing • Pytest • MLflow • Data validation • Model testing • Machine learning experiment tracking • Data pre-processing for ML • Model evaluation • Inference pipelines • Data splitting • Model performance metrics
+
 Students will write a Machine Learning Pipeline to solve the following problem: a property management company is renting rooms and properties in New York for short periods on various rental platforms. They need to estimate the typical price for a given property based on the price of similar properties. The company receives new data in bulk every week, so the model needs to be retrained with the same cadence, necessitating a reusable pipeline. The students will write an end-to-end pipeline covering data fetching, validation, segregation, training and validation, testing, and release. They will run it on an initial data sample, and then re-run it on a new data sample, simulating a new data delivery.
 
 ### [🔗 Deploying a Machine Learning Model on Heroku with FastAPI](https://github.com/JrVerbiest/Udacity_Deploying_ML_Model_Heroku_FastAPI)
+
+🔨 **Skills:** Dvc • Continuous integration • Machine learning experiment tracking • Software development automation • Github actions • Continuous deployment • Unit testing • Heroku • FastAPI • API development • Model documentation • Git • Aequitas • API testing • Machine learning pipeline creation • Data slicing • API deployment • Model bias analysis
 
 In this project, students will deploy a machine-learning model on Heroku. The students will use Git and DVC to track their code, data, and model while developing a simple classification model on the Census Income Data Set. After developing the model, the students will finalize the model for production by checking its performance on slices and writing a model card encapsulating key knowledge about the model. Students will put together a Continuous Integration and Continuous Deployment framework and ensure their pipeline passes a series of unit tests before deployment. Lastly, an API will be written using FastAPI and tested locally. After successful deployment, the API will be tested live using the requests module.
 
@@ -26,9 +46,11 @@ After completion, the student will have a working API that is live in production
 
 ### [🔗 A Dynamic Risk Assessment System](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree/tree/main/Dynamic%20risk%20assessment%20system)
 
-In this project, students will make predictions about attrition risk in a fabricated dataset. They’ll set up automated processes to ingest data and score, re-train, and re-deploy ML models that predict attrition risk. They’ll write scripts to automatically check for new data and check for model drift. They’ll also set up API’s that allow users to access model results, metrics, and diagnostics. After completing this project, students will have a full end-to-end, automated ML project that performs risk assessments. This project can be a useful addition to students’ portfolios, and the concepts they apply in the project can be applied to business problems across a variety of industries.
+🔨 **Skills:** Machine learning ops troubleshooting • AutoML • ML project reporting • Automated model scoring • API configuration • Model drift • Continuous model updating • Calling APIs • Model score recording • Machine learning data recording • Data ingestion • Model Deployment
 
-## Machine Learning Engineer - Nanodegree
+In this project, students will predict attrition risk in a fabricated dataset. They’ll set up automated processes to ingest data and score, re-train, and re-deploy ML models that predict attrition risk. They’ll write scripts to automatically check for new data and check for model drift. They’ll also set up APIs that allow users to access model results, metrics, and diagnostics. After completing this project, students will have a full end-to-end, automated ML project that performs risk assessments. This project can be a useful addition to students’ portfolios, and the concepts they apply in the project can be applied to business problems across a variety of industries.
+
+## Machine Learning Engineer Nanodegree
 
 [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
 
@@ -52,7 +74,7 @@ The design of a real time smart embedded monitoring system is, given the limit t
 
 The dataset used in this project is the Urbansound8k dataset.
 
-## AI Programming with Python - Nanodegree
+## AI Programming with Python Nanodegree
 
 [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
