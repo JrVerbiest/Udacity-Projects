@@ -2,9 +2,6 @@
 
 ## Overview
 
-- **Data Architecture Foundations Course** - Ongoing
-- **Big Data Systems Course** - Ongoing
-
 - **[Practical Statistics Course](https://github.com/JrVerbiest/Udacity-Projects#practical-statistics-course)** - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 - **[Machine Learning DevOps Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-devops-engineer-nanodegree)** - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 - **[Machine Learning Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-engineer-nanodegree)** - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
