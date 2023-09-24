@@ -1,30 +1,28 @@
 ## 🎓 Udacity Nanodegrees and Courses
 
-## SQL Roadmap - Ongoing
-
+## SQL Roadmap
 - Introduction to SQL
 - Management of Relational and Non-relational Databases
-- Data Modeling
-- Data Architecture Foundations
+
+## AWS Roadmap
+- Data Engineering with AWS
+  - Data Modeling
+  - Cloud Data Warehouses
+  - Spark and Data Lakes
+  - Automate Data Pipelines
+
+- AWS Machine Learning Engineer
+  - Introduction to Machine Learning
+  - Developing your First ML Workflow
+  - Deep Learning Topics with Computer Vision & NLP
+  - Operationalizing Machine Learning on Sagemaker
+  - Capstone Project
+
 
 <br>
 
-## Still to be planned
 
-### AWS Roadmap
-
-- Data Engineering with AWS (4m)
-- AWS Machine Learning Engineer (5m)
-
-### Azure Roadmap
-
-- Data Engineering with Microsoft Azure (4m)
-- Machine Learning Engineer with Azure (3m)
-- AI Engineer using Microsoft Azure (3m)
-
-<br>
-
-## Completed
+## Nanodegrees and Courses - Completed
 
 - **[Practical Statistics Course](https://github.com/JrVerbiest/Udacity-Projects#practical-statistics-course)** - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 - **[Machine Learning DevOps Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-devops-engineer-nanodegree)** - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
