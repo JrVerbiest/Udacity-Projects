@@ -2,9 +2,12 @@
 
 ## SQL Roadmap - Ongoing
 
-- SQL Nanodegree (2 projects)
-- Data Architecture Foundations Course (1 project)
-- Data Modeling Course (1 project)
+- Introduction to SQL
+- Management of Relational and Non-relational Databases
+- Data Modeling
+- Data Architecture Foundations
+
+<br>
 
 ## Still to be planned
 
