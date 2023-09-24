@@ -1,10 +1,10 @@
 ## 🎓 Udacity Nanodegrees and Courses
 
-## Ongoing
+## SQL Roadmap - Ongoing
 
 - SQL Nanodegree (2 projects)
-- Data Modeling Course (1 project)
 - Data Architecture Foundations Course (1 project)
+- Data Modeling Course (1 project)
 
 ## Still to be planned
 
