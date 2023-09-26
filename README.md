@@ -1,26 +1,17 @@
 ## 🎓 Udacity Nanodegrees and Courses
 
-## SQL Roadmap
-- Introduction to SQL
-- Management of Relational and Non-relational Databases
-
-## AWS Roadmap
-- Data Engineering with AWS
-  - Data Modeling
-  - Cloud Data Warehouses
-  - Spark and Data Lakes
-  - Automate Data Pipelines
-
-- AWS Machine Learning Engineer
-  - Introduction to Machine Learning
-  - Developing your First ML Workflow
-  - Deep Learning Topics with Computer Vision & NLP
-  - Operationalizing Machine Learning on Sagemaker
-  - Capstone Project
-
-
-<br>
-
+## Roadmap
+- Introduction to SQL (SQL Nanodegree)
+- Management of Relational and Non-relational Databases (SQL Nanodegree)
+- Data Modeling (Data Engineering with AWS Nanodegree)
+- Cloud Data Warehouses (Data Engineering with AWS Nanodegree)
+- Spark and Data Lakes (Data Engineering with AWS Nanodegree)
+- Automate Data Pipelines (Data Engineering with AWS Nanodegree)
+- Introduction to Machine Learning (AWS Machine Learning Engineer Nanodegree)
+- Developing your First ML Workflow (AWS Machine Learning Engineer Nanodegree)
+- Deep Learning Topics with Computer Vision & NLP (AWS Machine Learning Engineer Nanodegree)
+- Operationalizing Machine Learning on Sagemaker (AWS Machine Learning Engineer Nanodegree)
+- Capstone Project (AWS Machine Learning Engineer Nanodegree)
 
 ## Nanodegrees and Courses - Completed
 
@@ -28,8 +19,6 @@
 - **[Machine Learning DevOps Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-devops-engineer-nanodegree)** - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 - **[Machine Learning Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-engineer-nanodegree)** - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
 - **[AI Programming with Python Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#ai-programming-with-python-nanodegree)** - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
-
-<br>
 
 ### Practical Statistics Course
 [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
@@ -116,4 +105,3 @@ CharityML is a fictitious charity organization that provides financial support f
 Arvato Financial Services provided the data and design for this project. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimize customer outreach for a mail-order company.
 
 ---
-
