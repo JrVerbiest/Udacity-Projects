@@ -1,10 +1,9 @@
 ## 🎓 Udacity Nanodegrees and Courses
 
 ## Roadmap
-- Introduction to SQL (SQL Nanodegree)
-- Management of Relational and Non-relational Databases (SQL Nanodegree)
+- Management of Relational and Non-relational Databases (SQL Nanodegree) - 
 - Data Modeling (Data Engineering with AWS Nanodegree)
-- Cloud Data Warehouses (Data Engineering with AWS Nanodegree)
+- Cloud Data Warehouses (Data Engineering with AWS Nanodegree)  
 - Spark and Data Lakes (Data Engineering with AWS Nanodegree)
 - Automate Data Pipelines (Data Engineering with AWS Nanodegree)
 - Introduction to Machine Learning (AWS Machine Learning Engineer Nanodegree)
