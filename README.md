@@ -1,7 +1,13 @@
 ## 🎓 Udacity Nanodegrees and Courses
 
 ## Roadmap
+<<<<<<< Updated upstream
 - Management of Relational and Non-relational Databases (SQL Nanodegree) - **Ongoing**
+=======
+- Introduction to SQL (SQL Nanodegree)
+- Management of Relational and Non-relational Databases (SQL Nanodegree)
+- Data Architecture Foundation (Data Architect Nanodegree)
+>>>>>>> Stashed changes
 - Data Modeling (Data Engineering with AWS Nanodegree)
 - Cloud Data Warehouses (Data Engineering with AWS Nanodegree)  
 - Spark and Data Lakes (Data Engineering with AWS Nanodegree)
@@ -12,7 +18,7 @@
 - Operationalizing Machine Learning on Sagemaker (AWS Machine Learning Engineer Nanodegree)
 - Capstone Project (AWS Machine Learning Engineer Nanodegree)
 
-## Nanodegrees and Courses - Completed
+## Nanodegrees & Courses - Completed
 
 - **[Practical Statistics Course](https://github.com/JrVerbiest/Udacity-Projects#practical-statistics-course)** - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 - **[Machine Learning DevOps Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-devops-engineer-nanodegree)** - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
