@@ -1,7 +1,7 @@
 ## 🎓 Udacity Nanodegrees and Courses
 
 ## Roadmap
-- Management of Relational and Non-relational Databases (SQL Nanodegree) - 
+- Management of Relational and Non-relational Databases (SQL Nanodegree) - **Ongoing**
 - Data Modeling (Data Engineering with AWS Nanodegree)
 - Cloud Data Warehouses (Data Engineering with AWS Nanodegree)  
 - Spark and Data Lakes (Data Engineering with AWS Nanodegree)
