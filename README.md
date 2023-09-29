@@ -1,18 +1,9 @@
-## 🎓 Udacity Nanodegrees and Courses
+## 🎓 Udacity Nanodegrees & Courses
 
 ## Roadmap
 
 1. Management of Relational and Non-relational Databases (SQL Nanodegree) - **Ongoing**
-2. Data Architecture Foundation (Data Architect Nanodegree)
-3. Data Modeling (Data Engineering with AWS Nanodegree)
-4. Cloud Data Warehouses (Data Engineering with AWS Nanodegree)  
-5. Spark and Data Lakes (Data Engineering with AWS Nanodegree)
-6. Automate Data Pipelines (Data Engineering with AWS Nanodegree)
-7. Introduction to Machine Learning (AWS Machine Learning Engineer Nanodegree)
-8. Developing your First ML Workflow (AWS Machine Learning Engineer Nanodegree)
-9. Deep Learning Topics with Computer Vision & NLP (AWS Machine Learning Engineer Nanodegree)
-10. Operationalizing Machine Learning on Sagemaker (AWS Machine Learning Engineer Nanodegree)
-11. Capstone Project (AWS Machine Learning Engineer Nanodegree)
+2. Data Architecture Foundation (Data Architect Nanodegree) - **Ongoing**
 
 ## Nanodegrees & Courses - Completed
 
