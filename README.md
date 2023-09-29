@@ -1,10 +1,10 @@
 ## 🎓 Udacity Nanodegrees & Courses
 
-## Roadmap
+## Ongoing
 
-1. Management of Relational and Non-relational Databases (SQL Nanodegree) - **Ongoing**
-2. Data Architecture Foundation (Data Architect Nanodegree) - **Ongoing**
-3. SQL for Data Analysis - **Ongoing**
+1. Management of Relational and Non-relational Databases Course
+2. Data Architecture Foundation Course
+3. SQL for Data Analysis Course
 4. AWS Machine Learning Engineer Nanodegree
 
 ## Nanodegrees & Courses - Completed
