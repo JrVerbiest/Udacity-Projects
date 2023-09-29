@@ -1,10 +1,11 @@
 ## 🎓 Udacity Nanodegrees & Courses
 
-## SQL courses Ongoing 
+## Courses Ongoing 
 
-1. SQL for Data Analysis Course
-2. Management of Relational and Non-relational Databases Course
-3. Data Architecture Foundation Course
+1. SQL for Data Analysis
+2. Management of Relational and Non-relational Databases
+3. Data Architecture Foundation
+4. Applying AI to EHR Data
 
 ## Nanodegrees & Courses - Completed
 
