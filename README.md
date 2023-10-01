@@ -103,6 +103,5 @@ Arvato Financial Services provided the data and design for this project. Apply u
 
 1. Management of Relational and Non-relational Databases
 2. Data Architecture Foundation
-3. AWS Machine Learning Engineer Nanodegree
 
 ---
