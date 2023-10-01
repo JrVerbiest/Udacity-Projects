@@ -1,13 +1,10 @@
 ## 🎓 Udacity Nanodegrees & Courses
 
-## Courses Ongoing 
+## Ongoing
 
-1. Using SQL for Data Analysis
-2. Management of Relational and Non-relational Databases
-3. Data Architecture Foundation
-4. AWS Machine Learning Engineer Nanodegree
+### [🔗 Using SQL for Data Analysis](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course)
 
-<br>
+🔨 **Course Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
 
 ## Nanodegrees & Courses - Completed
 
@@ -19,9 +16,9 @@
 ### Practical Statistics Course
 [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 
-#### [🔗 Analyze A/B Test Results](https://github.com/JrVerbiest/Udacity-Practical-Statistics-for-Data-Science)
+🔨 **Course Skills:** Outlier analysis • Statistical sampling • Basic probability • Probability distribution • Basic descriptive statistics
 
-🔨 **Skills:** Outlier analysis • Statistical sampling • Basic probability • Probability distribution • Basic descriptive statistics
+#### [🔗 Analyze A/B Test Results](https://github.com/JrVerbiest/Udacity-Practical-Statistics-for-Data-Science)
 
 In this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
@@ -99,5 +96,13 @@ CharityML is a fictitious charity organization that provides financial support f
 #### [🔗 Creating Customer Segments](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree/tree/master/Project_Identify_Customer_Segments)
 
 Arvato Financial Services provided the data and design for this project. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimize customer outreach for a mail-order company.
+
+---
+
+## To-Do List
+
+1. Management of Relational and Non-relational Databases
+2. Data Architecture Foundation
+3. AWS Machine Learning Engineer Nanodegree
 
 ---
