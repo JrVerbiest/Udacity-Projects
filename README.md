@@ -2,7 +2,7 @@
 
 ## Courses Ongoing 
 
-1. SQL for Data Analysis
+1. Using SQL for Data Analysis
 2. Management of Relational and Non-relational Databases
 3. Data Architecture Foundation
 4. AWS Machine Learning Engineer Nanodegree
