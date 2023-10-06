@@ -2,9 +2,12 @@
 
 ## Ongoing
 
-### [🔗 Using SQL for Data Analysis](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course)
+### [🔗 Using SQL for Data Analysis Course](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course)
 
 🔨 **Course Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
+
+### Applying AI to EHR Data Course
+🔨 **Course Skills:** Medical code sets • Shapley value • Feature engineering • TensorFlow • Healthcare privacy regulations • ETL • Model uncertainty estimation • Exploratory data analysis • Model bias analysis • Data splitting • Model performance metrics • Tensorflow dataset API • Aequitas • Tensorflow probability library
 
 ## Nanodegrees & Courses - Completed
 
@@ -96,12 +99,5 @@ CharityML is a fictitious charity organization that provides financial support f
 #### [🔗 Creating Customer Segments](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree/tree/master/Project_Identify_Customer_Segments)
 
 Arvato Financial Services provided the data and design for this project. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimize customer outreach for a mail-order company.
-
----
-
-## To-Do List
-
-1. Management of Relational and Non-relational Databases
-2. Data Architecture Foundation
 
 ---
