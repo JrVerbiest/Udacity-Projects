@@ -6,9 +6,6 @@
 
 🔨 **Course Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
 
-### Applying AI to EHR Data Course
-🔨 **Course Skills:** Medical code sets • Shapley value • Feature engineering • TensorFlow • Healthcare privacy regulations • ETL • Model uncertainty estimation • Exploratory data analysis • Model bias analysis • Data splitting • Model performance metrics • Tensorflow dataset API • Aequitas • Tensorflow probability library
-
 ## Nanodegrees & Courses - Completed
 
 - **[Practical Statistics Course](https://github.com/JrVerbiest/Udacity-Projects#practical-statistics-course)** - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
