@@ -1,17 +1,26 @@
 # 🎓 Udacity Nanodegrees & Courses
 
-## SQL (Ongoing)
+## SQL
 
 ### SQL Nanodegree
 
-🔨 **Course Skills:** 
+- **Introduction to SQL** 
+  
+  🔨 **Course Skills:** SQL subqueries • SQL joins • SQL aggregations • SQL window functions • SQL queries • Data cleaning • SQL query performance tuning
+  
+  Project: Deforestation Exploration
 
-- **Introduction to SQL**: SQL subqueries • SQL joins • SQL aggregations • SQL window functions • SQL queries • Data cleaning • SQL query performance tuning
-- **Management of Relational and Non-relational Databases**: Mongodb • SQL CRUD commands • Database normalization • Redis • Database indexing • Data manipulation language • Query plans • Database schemas • SQL query performance tuning • Rdbms performance and optimization • Foreign keys • Database fundamentals • Business rule enforcement in databases
+- **Management of Relational and Non-relational Databases**
+  
+  🔨 **Course Skills:** Mongodb • SQL CRUD commands • Database normalization • Redis • Database indexing • Data manipulation language • Query plans • Database schemas • SQL query performance tuning • Rdbms performance and optimization • Foreign keys • Database fundamentals • Business rule enforcement in databases
+  
+  Project: Udiddit, A Social News Aggregator
 
-### [🔗 Using SQL for Data Analysis Course](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course)
+### Using SQL for Data Analysis Course
 
 🔨 **Course Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
+
+[🔗 Project: Query a Digital Music Store Database (Chinook Database)](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course)
 
 ---
 
