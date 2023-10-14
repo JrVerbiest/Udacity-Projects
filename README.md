@@ -13,24 +13,6 @@
 
 🔨 **Course Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
 
-## Amazon Web Services  (Ongoing)
-
-### Data Engineering with AWS Nanodegree
-
-🔨 **Course Skills:** 
-- **Data Modeling**: Database fundamentals • Cassandradb • PostgreSQL • Database normalization • Denormalized data schemas • Data modeling basics
-- Cloud Data Warehouses: Data extraction • Infrastructure as code • Olap cubes • Table design • Cloud computing fluency • ETL • Database fundamentals • AWS storage services • Table partitioning • Online transaction processing • AWS data warehouse • Redshift • Data warehouse architecture • Amazon s3
-- **Spark and Data Lakes**: AWS data lakes • ELT • Big data fluency • Data wrangling • Amazon s3 • Amazon Athena • Data Lakehouse Architecture • Apache Spark • Data format fundamentals • AWS glue • Data lakes • Data transformation
-- **Automate Data Pipelines**: Apache Airflow • Data pipeline dags • Data pipeline partitioning • Amazon s3 • Data pipeline maintenance • Redshift • Data pipeline creation • Data lineage
-
-### AWS Machine Learning Engineer Nanodegree
-
-🔨 **Course Skills:** 
-- **Introduction to Machine Learning**: Feature engineering • Machine learning fluency • AI business context • Machine learning use cases • Data loading with sagemaker • Amazon s3 • Model training • Linear models • Xgboost • Autogluon • Pandas • Sagemaker studio notebooks • Model performance metrics • Hyperparameter tuning • Tree-based models • Sagemaker ground truth • Machine learning lifecycle • Dataset annotation • Sagemaker jumpstart • Machine learning dataset fundamentals • scikit-learn • Automated machine learning • Sagemaker data wrangler
-- **Developing your First ML Workflow**: AWS lambda • Sagemaker processing • Sagemaker batch transform jobs • Sagemaker training jobs • Sagemaker clarify • Machine learning pipeline creation • Sagemaker pipelines • Model monitoring • Sagemaker model endpoints • AWS step functions • Sagemaker model monitor • Sagemaker feature store
-- **Deep Learning Topics with Computer Vision & NLP**: Neural network basics • Deep learning fluency • Sagemaker jumpstart • Machine learning framework fundamentals • Hyperparameter tuning • Sagemaker training jobs • Transformer neural networks • Sagemaker debugger • Image classification • Training neural networks • Deep learning model optimization • Transfer learning • PyTorch • Model deployment with sagemaker • Convolutional neural networks • Text classification • Model performance metrics
-- **Operationalizing Machine Learning on SageMaker**: Cloud resource allocation • AWS lambda • Distributed model training with sagemaker • Amazon elastic compute cloud • Vpc • Sagemaker feature store • Cloud security in AWS • Cloud cost management • Sagemaker logs • Cloud performance management • AWS storage services • Training data manifest files • Sagemaker autoscaling
-
 ---
 
 ## Nanodegrees & Courses - Completed
