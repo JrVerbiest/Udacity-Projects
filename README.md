@@ -1,30 +1,6 @@
 # 🎓 Udacity Nanodegrees & Courses
 
-## SQL
-
-### SQL Nanodegree
-
-- **Introduction to SQL** 
-  
-  🔨 **Course Skills:** SQL subqueries • SQL joins • SQL aggregations • SQL window functions • SQL queries • Data cleaning • SQL query performance tuning
-  
-  Project: Deforestation Exploration
-
-- **Management of Relational and Non-relational Databases**
-  
-  🔨 **Course Skills:** Mongodb • SQL CRUD commands • Database normalization • Redis • Database indexing • Data manipulation language • Query plans • Database schemas • SQL query performance tuning • Rdbms performance and optimization • Foreign keys • Database fundamentals • Business rule enforcement in databases
-  
-  Project: Udiddit, A Social News Aggregator
-
-### Using SQL for Data Analysis Course
-
-🔨 **Course Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
-
-[🔗 Project: Query a Digital Music Store Database (Chinook Database)](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course)
-
----
-
-## Nanodegrees & Courses - Completed
+## Nanodegrees & Courses
 
 - **[Practical Statistics Course](https://github.com/JrVerbiest/Udacity-Projects#practical-statistics-course)** - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 - **[Machine Learning DevOps Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-devops-engineer-nanodegree)** - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
@@ -114,5 +90,11 @@ CharityML is a fictitious charity organization that provides financial support f
 #### [🔗 Creating Customer Segments](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree/tree/master/Project_Identify_Customer_Segments)
 
 Arvato Financial Services provided the data and design for this project. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimize customer outreach for a mail-order company.
+
+### SQL
+
+[🔗 Project: Query a Digital Music Store Database (Chinook Database)](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course)
+
+🔨 **Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
 
 ---
