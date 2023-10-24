@@ -93,8 +93,13 @@ Arvato Financial Services provided the data and design for this project. Apply u
 
 ### SQL
 
-[🔗 Project: Query a Digital Music Store Database (Chinook Database)](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course)
-
-🔨 **Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
+#### Using SQL for Data Analysis Course
+- [🔗 Project: Query a Digital Music Store Database (Chinook Database)](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course) [Ongoing] <br>
+  🔨 **Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
 
 ---
+
+## My Courses todo-list
+
+- Data Modelling (Project: Data Modeling with Apache Cassandra)
+- Data Architecture Foundations (Project: Designing an HR Database)
