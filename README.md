@@ -83,23 +83,20 @@ In this project, an image classification application is implemented using a deep
 
 #### [🔗 Find Donors for the CharityML](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree/tree/master/Project_Finding_Donors_for_CharityML)
 
-CharityML is a fictitious charity organization that provides financial support for people learning machine learning. To improve donor outreach effectiveness, an algorithm is built that best identifies potential donors. The goal will be to evaluate and optimize several supervised learners to determine which algorithm the highest donation will yield.
+CharityML is a fictitious charity organisation that provides financial support for people learning machine learning. To improve donor outreach effectiveness, an algorithm is built that best identifies potential donors. The goal will be to evaluate and optimise several supervised learners to determine which algorithm the highest donation will yield.
 
 ### Unsupervised Learning
 
 #### [🔗 Creating Customer Segments](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree/tree/master/Project_Identify_Customer_Segments)
 
-Arvato Financial Services provided the data and design for this project. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimize customer outreach for a mail-order company.
-
-### SQL
-
-#### Using SQL for Data Analysis Course
-- [🔗 Project: Query a Digital Music Store Database (Chinook Database)](https://github.com/JrVerbiest/Udacity-Using-SQL-for-Data-Analysis-Course) [Ongoing] <br>
-  🔨 **Skills:** SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
+Arvato Financial Services provided the data and design for this project. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimise customer outreach for a mail-order company.
 
 ---
 
-## My Courses todo-list
+## My Ongoing Courses
 
 - Data Modelling (Project: Data Modeling with Apache Cassandra)
 - Data Architecture Foundations (Project: Designing an HR Database)
+- Using SQL for Data Analysis Course (Project: Query a Digital Music Store Database)
+
+---
