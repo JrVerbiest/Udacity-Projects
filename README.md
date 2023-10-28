@@ -93,10 +93,18 @@ Arvato Financial Services provided the data and design for this project. Apply u
 
 ---
 
-## My Ongoing Courses
+## My todo list
 
-- Data Modelling (Project: Data Modeling with Apache Cassandra)
-- Data Architecture Foundations (Project: Designing an HR Database)
-- Using SQL for Data Analysis Course (Project: Query a Digital Music Store Database)
+- Using SQL for Data Analysis
+
+- Data Engineering with Microsoft Azure
+  - Data Modelling
+  - Cloud Data Warehouses with Azure
+  - Data lakes and Lakehouses with Spark and Azure Databricks
+  - Data Pipelines with Azure
+- Machine Learning Engineer with Microsoft Azure
+  - Using Azure Machine Learning
+  - Machine Learning Operations
+  - Capstone project
 
 ---
