@@ -95,16 +95,20 @@ Arvato Financial Services provided the data and design for this project. Apply u
 
 ## My todo list
 
-- Using SQL for Data Analysis
-
 - Data Engineering with Microsoft Azure
-  - Data Modelling
+  - Data Modeling
   - Cloud Data Warehouses with Azure
   - Data lakes and Lakehouses with Spark and Azure Databricks
   - Data Pipelines with Azure
+
 - Machine Learning Engineer with Microsoft Azure
-  - Using Azure Machine Learning
+  - Azure Machine Learning
   - Machine Learning Operations
-  - Capstone project
+
+- AI Engineer using Microsoft Azure
+  - Building Computer Vision Solutions with Azure
+  - Building NLP and Conversational AI solutions with Azure
+  - Knowledge Mining with Azure Cognitive Search
+- Using SQL for Data Analysis
 
 ---
