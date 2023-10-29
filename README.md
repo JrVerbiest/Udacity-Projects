@@ -92,23 +92,3 @@ CharityML is a fictitious charity organisation that provides financial support f
 Arvato Financial Services provided the data and design for this project. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimise customer outreach for a mail-order company.
 
 ---
-
-## My todo list
-
-- Data Engineering with Microsoft Azure
-  - Data Modeling
-  - Cloud Data Warehouses with Azure
-  - Data lakes and Lakehouses with Spark and Azure Databricks
-  - Data Pipelines with Azure
-
-- Machine Learning Engineer with Microsoft Azure
-  - Azure Machine Learning
-  - Machine Learning Operations
-
-- AI Engineer using Microsoft Azure
-  - Building Computer Vision Solutions with Azure
-  - Building NLP and Conversational AI solutions with Azure
-  - Knowledge Mining with Azure Cognitive Search
-- Using SQL for Data Analysis
-
----
