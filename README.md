@@ -37,13 +37,13 @@ Students will write a Machine Learning Pipeline to solve the following problem: 
 
 In this project, students will deploy a machine-learning model on Heroku. The students will use Git and DVC to track their code, data, and model while developing a simple classification model on the Census Income Data Set. After developing the model, the students will finalize the model for production by checking its performance on slices and writing a model card encapsulating key knowledge about the model. Students will put together a Continuous Integration and Continuous Deployment framework and ensure their pipeline passes a series of unit tests before deployment. Lastly, an API will be written using FastAPI and tested locally. After successful deployment, the API will be tested live using the requests module.
 
-After completion, the student will have a working API that is live in production, a set of tests, model card, and full CI/CD framework. On its own, this project can be used as a portfolio piece, but also any of the constituent pieces can be applied to other projects, e.g. continuous integration, to further flesh them out.
+After completion, the student will have a working API that is live in production, a set of tests, a model card, and a full CI/CD framework. On its own, this project can be used as a portfolio piece, but any of the constituent pieces can be applied to other projects, e.g. continuous integration, to flesh them further out.
 
 #### [🔗 A Dynamic Risk Assessment System](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree/tree/main/Dynamic%20risk%20assessment%20system)
 
 🔨 **Skills:** Machine learning ops troubleshooting • AutoML • ML project reporting • Automated model scoring • API configuration • Model drift • Continuous model updating • Calling APIs • Model score recording • Machine learning data recording • Data ingestion • Model Deployment
 
-In this project, students will predict attrition risk in a fabricated dataset. They’ll set up automated processes to ingest data and score, re-train, and re-deploy ML models that predict attrition risk. They’ll write scripts to automatically check for new data and check for model drift. They’ll also set up APIs that allow users to access model results, metrics, and diagnostics. After completing this project, students will have a full end-to-end, automated ML project that performs risk assessments. This project can be a useful addition to students’ portfolios, and the concepts they apply in the project can be applied to business problems across a variety of industries.
+In this project, students will predict attrition risk in a fabricated dataset. They’ll set up automated processes to ingest data and score, re-train, and re-deploy ML models that predict attrition risk. They’ll write scripts to check for new data and check for model drift automatically. They’ll also set up APIs that allow users to access model results, metrics, and diagnostics. After completing this project, students will have a full end-to-end, automated ML project that performs risk assessments. This project can be a useful addition to students’ portfolios, and the concepts they apply in the project can be applied to business problems across a variety of industries.
 
 ### Machine Learning Engineer Nanodegree
 
@@ -75,7 +75,7 @@ The dataset used in this project is the Urbansound8k dataset.
 
 #### [🔗 Create an Image Classifier](https://github.com/JrVerbiest/Udacity_AI_Programming_with_Python_Nanodegree)
 
-In this project, an image classification application is implemented using a deep learning model on a dataset of images, and the trained model is used to classify new images. First, develop code in a Jupyter Notebook using PyTorch. Second, convert it into a Python application that you will run from the command line of your system.
+In this project, an image classification application is implemented using a deep learning model on a dataset of images, and the trained model is used to classify new images. First, develop code in a Jupyter Notebook using PyTorch. Second, convert it into a Python application that you will run from your system's command line.
 
 ## Projects
 
@@ -92,3 +92,4 @@ CharityML is a fictitious charity organisation that provides financial support f
 Arvato Financial Services provided the data and design for this project. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimise customer outreach for a mail-order company.
 
 ---
+Last updated: 4 November 2023
